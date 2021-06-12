@@ -6,4 +6,4 @@ Assignment 3 - Implementing FastMap and PCA.
 Assignment 4 - Perceptron LEarning & Pocket Algorithm, Linear Regression, Logistic Regression
 Assignment 5 - Backpropagation in Feed Forward Neural Networks
 Assignment 6 - SVM for linear and non-linear separable data
-Project - Tweet Sentiment Extraction
+Project - Tweet Sentiment Extraction.
